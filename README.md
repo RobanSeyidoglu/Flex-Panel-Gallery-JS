@@ -27,7 +27,9 @@
 
 ## Overview
 
-![screenshot](https://github.com/RobanSeyidoglu/Flex-Panel-Gallery-JS/assets/123882030/11c6ea66-8d4f-427b-8dc6-d6daad28f371)
+https://github.com/RobanSeyidoglu/Flex-Panel-Gallery-JS/assets/123882030/a162989e-729b-4925-b1fb-e2c78057b58c
+
+
 
 ### Built With
 
