@@ -95,8 +95,18 @@
       .panel p:last-child {
         transform: translateY(100px);
       }
+      .panels .translate1 {
+        transform: translateY(100px) !important;
+      }
+      .panels .translate2 {
+        transform: translateY(-100px) !important;
+        transition: transform 1s;
+      }
       .panel.open {
         font-size: 40px;
+      }
+      .active {
+        flex-grow: 5;
       }
     </style>
 
@@ -128,6 +138,6 @@
       </div>
     </div>
 
-    <script></script>
+    <script src="./main.js"></script>
   </body>
 </html>
