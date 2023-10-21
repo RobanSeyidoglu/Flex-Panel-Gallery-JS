@@ -27,7 +27,11 @@
 
 ## Overview
 
-https://github.com/RobanSeyidoglu/Flex-Panel-Gallery-JS/assets/123882030/21f57eeb-b6f4-4717-a270-bfab81e55425
+
+
+
+https://github.com/RobanSeyidoglu/Flex-Panel-Gallery-JS/assets/123882030/9fd3720a-a947-446c-b973-e2b5012562ed
+
 
 
 
